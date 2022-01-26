@@ -1,0 +1,14 @@
+{
+	"name": {
+		"content":"Maria Dimansi<br>Chrysandini",
+		"type":"innerHTML"
+	},
+	"desc": {
+		"content":"00000022248",
+		"type":"innerHTML"
+	},
+	"image": {
+		"content":"images/fotome.jpg",
+		"type":"styleBackground"
+	}
+}

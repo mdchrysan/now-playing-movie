@@ -1,0 +1,44 @@
+[
+	{
+		"name": {
+			"content":"Bootstrap",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/bootstrap.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"a free front-end framework",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"JQuery",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/jquery.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"a feature-rich JavaScript library",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"W3School.com",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/w3school.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"a web developers site",
+			"type":"innerHTML"
+		}
+	}
+]
